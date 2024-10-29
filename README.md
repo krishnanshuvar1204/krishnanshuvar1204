@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krishnanshu Varshney</h1>
 <h3 align="center">I am a beginner programmer</h3>
 
-- 🔭 I’m in my 1st year in B.Tech CSE course in UPES, Dehradun.
-- 🌱 I’m presently learning  C, C++
-- 💬My hobbies are Music and Chess
+👋 Hi there! I'm Krishnanshu, a 2nd-year B.Tech CSE student at UPES Dehradun.
+🌱 Currently learning: C, C++, Python, JavaScript, SQL, HTML, CSS, and React.
+🎶 Music enthusiast | ♟️ Chess lover | 💻 Aspiring software developer
 
-- ⚡ Fun fact about me :   *I am also a music producer*
+- ⚡ Fun fact about me :   *I am also a Guitarist*
